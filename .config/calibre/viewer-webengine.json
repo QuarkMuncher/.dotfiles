@@ -1,0 +1,51 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAD/////////2gAAA74AAAPxAAAAAAAAAAAAAAO9AAAD8AAAAAAAAAAAB4AAAAAAAAAAAAAAA70AAAPw"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAJAA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAowD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABvAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAQQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAOEA////AAADvgAAA/EAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 24,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Thomas"
+        ],
+        "key": "/home/Master/Documents/library/Thomas/wordpress-manualen-7 (3)/wordpress-manualen-7 - Thomas.epub",
+        "pathtoebook": "/home/Master/Documents/library/Thomas/wordpress-manualen-7 (3)/wordpress-manualen-7 - Thomas.epub",
+        "timestamp": "2021-06-22T07:54:17.289Z",
+        "title": "wordpress-manualen-7"
+      },
+      {
+        "authors": [
+          "Marijn Haverbeke"
+        ],
+        "key": "/home/Master/Documents/library/Marijn Haverbeke/Eloquent JavaScript (2)/Eloquent JavaScript - Marijn Haverbeke.epub",
+        "pathtoebook": "/home/Master/Documents/library/Marijn Haverbeke/Eloquent JavaScript (2)/Eloquent JavaScript - Marijn Haverbeke.epub",
+        "timestamp": "2021-06-22T07:47:22.710Z",
+        "title": "Eloquent JavaScript"
+      },
+      {
+        "authors": [
+          "John Schember"
+        ],
+        "key": "/home/Master/Documents/library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "pathtoebook": "/home/Master/Documents/library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "timestamp": "2021-06-22T07:28:21.398Z",
+        "title": "Quick Start Guide"
+      }
+    ]
+  }
+}

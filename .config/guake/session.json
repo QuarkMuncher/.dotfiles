@@ -1,0 +1,20 @@
+{
+    "schema_version": 2,
+    "timestamp": 1616674249,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/Master"
+                        }
+                    ],
+                    "label": "Master@fedora:~",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}

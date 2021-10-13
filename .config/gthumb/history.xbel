@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/Master/Pictures" added="2021-09-27T08:11:29.516797Z" modified="2021-09-27T08:11:29.516885Z" visited="2021-09-27T08:11:29.516804Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-09-27T08:11:29.516880Z" count="2"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Master/Music" added="2021-09-27T08:11:29.516820Z" modified="2021-09-27T08:11:29.516835Z" visited="2021-09-27T08:11:29.516824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-09-27T08:11:29.516831Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Master/projects/work/serverside-video-recorder/error%20messages" added="2021-09-27T08:11:29.516841Z" modified="2021-09-27T08:11:29.516855Z" visited="2021-09-27T08:11:29.516844Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-09-27T08:11:29.516849Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Master/Pictures/work" added="2021-09-27T08:11:29.516859Z" modified="2021-09-27T08:11:29.516873Z" visited="2021-09-27T08:11:29.516863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-09-27T08:11:29.516869Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Master/projects/personal/batcon/test-images/resultat" added="2021-09-27T08:11:29.516928Z" modified="2021-09-27T08:11:29.516940Z" visited="2021-09-27T08:11:29.516931Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-09-27T08:11:29.516936Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/Master/Downloads" added="2021-09-27T08:11:29.516944Z" modified="2021-09-27T08:11:29.516959Z" visited="2021-09-27T08:11:29.516948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-09-27T08:11:29.516955Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

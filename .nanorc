@@ -1,0 +1,2 @@
+unbind M-$ all
+bind M-; softwrap all

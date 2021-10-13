@@ -1,0 +1,14 @@
+[user]
+	name = Sebastian Andersen
+	email = sebastian@sandersen.co
+[core]
+	autocrlf = input
+	safecrlf = warn
+	excludesFile = ~/.gitignore
+	editor = micro
+[init]
+	defaultBranch = main
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[merge]
+	tool = meld

@@ -1,0 +1,26 @@
+{
+	"openAtLogin": true,
+	"firstRun": false,
+	"activeDocSource": {
+		"slug": "dom~2021-1-8",
+		"name": "WebAPI (DOM)",
+		"version": "v0",
+		"iconURL": "https://storage.googleapis.com/devbook-docs-icons/dom.png"
+	},
+	"globalShortcut": "Shift+Space",
+	"isPinModeEnabled": false,
+	"lastQuery": "{",
+	"searchFilter": "Docs",
+	"docSearchResultsDefaultWidth": 200,
+	"mainWinSize": [
+		900,
+		500
+	],
+	"mainWinPosition": [
+		null,
+		null
+	],
+	"refreshToken": "cyurmFWNDtMBJCK1CLyNX6l8bwyo1reD865LvBphZekZijuAdBmAABF8UNCCx/aP/6NrrR8Lz1dMWQSPHslEiA==",
+	"userID": "faa5fbbc-435c-4b11-81d2-7c7c36d4dee2",
+	"email": "sebastian@sandersen.co"
+}

@@ -1,0 +1,64 @@
+{
+	"searchHistoryEntries": [
+		{
+			"query": "host"
+		},
+		{
+			"query": "Location"
+		},
+		{
+			"query": "getMediaDevices"
+		},
+		{
+			"query": "Error"
+		},
+		{
+			"query": "Error.message"
+		},
+		{
+			"query": "MediaError"
+		},
+		{
+			"query": "new WebSocket"
+		},
+		{
+			"query": "https.createServer"
+		},
+		{
+			"query": "websocket.on"
+		},
+		{
+			"query": "Map"
+		},
+		{
+			"query": "WebScoket"
+		},
+		{
+			"query": "WebSocket"
+		},
+		{
+			"query": "mediaRecorder"
+		},
+		{
+			"query": "navigator.mediaDevices"
+		},
+		{
+			"query": "getUserMedia"
+		},
+		{
+			"query": "statSync"
+		},
+		{
+			"query": "stats"
+		},
+		{
+			"query": "mediadeviceinfo"
+		},
+		{
+			"query": "console"
+		},
+		{
+			"query": "{"
+		}
+	]
+}

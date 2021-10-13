@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"docker-cli-js": "^2.8.0"
+	}
+}
